@@ -8,7 +8,7 @@ My name is Nixon Siagian and I'm a software developer/DevOps engineer. I'm from 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [heroku](https:/heroku.com/) as well as on [Medium](https://medium.com/@nixon.siagian) and [DEV.to](https://dev.to/nixonn).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -43,9 +43,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/nixonsiagian
+[2]: https://github.com/NixonSiagian
+[3]: https://www.linkedin.com/in/h\nixon-siagian/
 
 
 <!-- Resources -->
